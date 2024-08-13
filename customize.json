@@ -1,0 +1,23 @@
+{
+  "greeting": "你好\n",
+  "name": "老伯",
+  "greetingText": "很有幸能够有你带着我一路成长!",
+  "wishText": "祝你心想事成，祝你万事如意\n祝你山河无恙，祝你身体健康，祝你万寿无疆！",
+  "imagePath": "img/dark-1845065_640.png",
+  "text1": "今天是你的生日",
+  "textInChatBox": "祝你生日快乐！今天的阳光因你灿烂，今天的空气因你新鲜，今晚的流星因你璀璨！",
+  "sendButtonLabel": "立即生效",
+  "text2": "祝你 睡觉睡到自然醒",
+  "text3": "数钱数到手抽筋",
+  "text4": "祝你\n脚踏山海，繁华人生\n满眼星辰，璀璨无边\n",
+  "text4Adjective": "以梦为马，不负韶华！",
+  "text5Entry": "再祝你",
+  "text5Content": "身体健康\n万事如意",
+  "smiley": ":)",
+  "bigTextPart1": "最",
+  "bigTextPart2": "后",
+  "wishHeading": "老伯这么多年来辛苦了！",
+  "outroText": "希望你喜欢这个小小的礼物!",
+  "replayText": "如果你喜欢的话，可以再看一次",
+  "outroSmiley": ":)"
+}
